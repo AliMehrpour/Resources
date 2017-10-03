@@ -1,48 +1,44 @@
 ﻿# Resources
 
 # Readme 
-| Python | Updated
+| Linux | Updated
 | :-: | :-:
-| :snake: | October 2, 2017
-| **Linux** | **Updated**
 | :penguin: | September 9, 2017
 
 ## Contents ## 
 - [Algorithms](#algorithm)
-- [Amazon Web Services](#amazon-web-services)
 - [Android](#android)
-- [Bash](#bash)
+- [C](#c-language)
 - [Best Practice](#best-practice)
   - [Design Patterns](#design-patterns)
   - [Coding Styles](#coding-styles)
-- [Bitcoin](#bitcoin)
-- [C](#c-language)
-- [Deep Learning](#deep-learning)
-- [Data Science](#data-science)
-- [Deep Vision](#deep-vision)
 - [DevOps](#devops)
-- [Editors](#editors)
-- [Git](#git)
-- [Go](#go-language)
-- [Internet Of Things](#iot)
-- [JavaScript](#JavaScript)
-- [Linux](#linux)
 - [Machine Learning](#machine-learning)
-- [Markdown](#markdown)
-- [Programmer](#programmer)
 - [Python](#python)
+- [Internet Of Things](#iot)
 - [Ruby on Rails](#ruby-on-rails)
-- [SQL](#sql)
 - [Student Pack](#student-pack)
   - [Study plan](#study-plan)
   - [Interview](#interview)
     - [Coding Interview](#coding-interview)
     - [Design Interview](#design-interview)
-- [Unix](#unix)
+- [Deep Learning](#deep-learning)
+- [Programmer](#programmer)
+- [Amazon Web Services](#amazon-web-services)
+- [Data Science](#data-science)
+- [Deep Vision](#deep-vision)
+- [Bitcoin](#bitcoin)
+- [Go](#go-language)
+- [Bash](#bash)
 - [Web development](#web-development)
   - [Vue.js](#vuejs)
-
-
+- [Editors](#editors)
+- [Linux](#linux)
+- [Unix](#unix)
+- [Git](#git)
+- [Markdown](#markdown)
+- [SQL](#sql)
+- [JavaScript](#JavaScript)
 ## Algorithm ##
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -68,6 +64,10 @@
 * [Fresco](https://github.com/facebook/fresco)
 * [Volley](https://developer.android.com/training/volley/index.html)
 * [Firebase Sample Codes](https://github.com/firebase)
+* [ExoPlayer](https://github.com/google/ExoPlayer)
+* [Small and Extensible Logger - Timber](https://github.com/JakeWharton/timber)
+* [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
+* [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
 
 ## C Language ## 
   [back to top](#readme) 
@@ -111,14 +111,14 @@
  * [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
 
  
-### Design Patterns ###
+  ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
   * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
   * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
   * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
   
-### Coding Styles ###
+  ### Coding Styles ###
   [back to top](#readme)
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
@@ -156,11 +156,8 @@
   
 ## Python ##
 [back to top](#readme)
-  * [Awesome Python](https://github.com/vinta/awesome-python)
-  * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
   * [Python Guide](http://docs.python-guide.org/en/latest/)
-  * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
-
+  * [Awesome Python](https://github.com/vinta/awesome-python)
   
 ## IOT ##
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
